@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<p align="center">
+  <a href="/">
+    <img src="/assets/logo.png" alt="COD Mobile Central Logo" style="max-width: 200px;">
+  </a>
+</p>
+
 # 🎮 Welcome to COD Mobile Central
 
 The hub for **Call of Duty Mobile** players who want to connect, chat, and dominate — one frag at a time.
