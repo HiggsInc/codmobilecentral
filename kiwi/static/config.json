@@ -1,0 +1,28 @@
+{
+  "windowTitle": "CODM Live Chat",
+  "startupScreen": "welcome",
+  "kiwiServer": "wss://irc.atrum.org:443",
+  "restricted": false,
+  "theme": "Default",
+  "themes": [
+    { "name": "Default", "url": "static/themes/default" },
+    { "name": "Dark", "url": "static/themes/dark" },
+    { "name": "Coffee", "url": "static/themes/coffee" },
+    { "name": "GrayFox", "url": "static/themes/grayfox" },
+    { "name": "Nightswatch", "url": "static/themes/nightswatch" },
+    { "name": "Osprey", "url": "static/themes/osprey" },
+    { "name": "Radioactive", "url": "static/themes/radioactive" },
+    { "name": "Sky", "url": "static/themes/sky" },
+    { "name": "Elite", "url": "static/themes/elite" }
+  ],
+  "startupOptions": {
+    "channel": "#CODMobile",
+    "nick": "CODM-Guest?"
+  },
+  "embedly": {
+    "key": ""
+  },
+  "plugins": [
+    { "name": "customise", "url": "static/plugins/customise.html" }
+  ]
+}
