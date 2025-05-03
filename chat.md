@@ -7,9 +7,9 @@ title: Chat
 
 Welcome to the **real-time chatroom** for Call of Duty Mobile players.
 
-> No login, no sign-up — just drop your name and dive in.
+> You're now connecting via **irc.atrum.org** on **#CODMobile** — no login or sign-up needed!
 
-<iframe src="https://kiwiirc.com/nextclient/irc.codmobilecentral.co.za/#codm" width="100%" height="500"></iframe>
+<iframe src="https://kiwiirc.com/nextclient/irc.atrum.org/#CODMobile" width="100%" height="500"></iframe>
 
 ---
 
